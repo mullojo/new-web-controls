@@ -2,7 +2,7 @@
     "name": "Controls",
     "short_name": "Controls",
     "description": "New Web Controls Panel",
-    "start_url": "/index.html",
+    "start_url": "/new-web-controls/index.html",
     "display": "standalone",
     "background_color": "#FFFFFF",
     "theme_color": "#FFC0CB",
